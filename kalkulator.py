@@ -1,4 +1,4 @@
-"""Hello selamat malam member grup KGSP 46"""
+"""Hello selamat Pagi/Siang/Malam pengguna program"""
 
 import sys,time
 import pyfiglet
@@ -18,20 +18,20 @@ print("            Program ini dibuat oleh Fadil           ")
 print(53*"="+ "\n")
 
 msg = input("Masukan nama kamu:")
-if msg == "raka":
-	print("Kamu sangat CABUL")
-	print("Kamu juga MESUM")
+if msg == "orang":
+	print("Enjoy my program")
+	print("Jangan lupa bintangnya di github ya")
 elif msg == "fadil":
-	print("Kamu adalah manusia paling GANTENG")
+	print("Kamu adalah developer dari program ini")
+elif msg == "manusia":
+    print("Jelas kamu manusia karena robot tidak bisa run program ini")
 elif msg == "kontol":
-    print("Iya saya tau kontol kamu kecil")
-elif msg == "botak":
-    print("Orang botak adalah orang baik yang tersakiti")
+    print("Jangan ngomong kotor wehh")
 elif msg == "Pesan Moral":
     print("Belajarlah jangan menjadi yang TERBAIK dari sekian banyak orang,") 
     print("Tetapi jadilah orang yang bermental BAIK dari sekian banyak orang.")
 else:
-    print("Selamat datang di program Gwehh orang asing")
+    print("Selamat datang di program Gwehh")
 print("Akhir dari sebuah program")
 
 print(53*"=")
